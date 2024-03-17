@@ -62,3 +62,23 @@ lexirpg.py the main script.
 4. run with nohup /usr/bin/python3 /path/to/lexirpg.py
 
 
+# EXAMPLE
+
+```
+Player: !conquista
+LexiRPG: Para iniciar una conquista, asigna tus unidades disponibles. Por favor, especifica el número de cada tipo de unidad que deseas desplegar.
+LexiRPG: Soldados disponibles: 5
+LexiRPG: Artillería disponible: 3
+LexiRPG: Tanques disponibles: 2
+Player: Quiero enviar 2 soldados, 1 artillería y 1 tanque.
+LexiRPG: ¡Conquista en curso! Simulando batalla...
+LexiRPG: Conquista exitosa. Has conquistado el país.
+LexiRPG: Tropas perdidas durante la batalla:
+LexiRPG: - Soldados perdidos: 1
+LexiRPG: - Artillería perdida: 0
+LexiRPG: - Tanques perdidos: 1
+LexiRPG: Tropas restantes después de la batalla:
+LexiRPG: - Soldados restantes: 2
+LexiRPG: - Artillería restante: 3
+LexiRPG: - Tanques restantes: 1
+```
