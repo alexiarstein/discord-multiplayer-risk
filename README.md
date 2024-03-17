@@ -58,6 +58,7 @@ lexirpg.py the main script.
 
 1. Create a bot and obtain a token
 2. clone the repository in a machine with python3 
-3. run with nohup /usr/bin/python3 /path/to/lexirpg.py
+3. edit lexirpg.py and add the obtained token into bot_token('your-token-goes-here')
+4. run with nohup /usr/bin/python3 /path/to/lexirpg.py
 
 
